@@ -1,0 +1,21 @@
+[
+   {
+      "machine":"geza",
+      "line":" bela "
+   },
+
+
+   {
+      "machine":"eegegegggg",
+      "line":" szar "
+   },
+
+
+   {
+      "machine":"Disable Defender",
+      "line":" set-mppreference -DisableRealtimeMonitoring $true"
+   }
+
+
+
+]
